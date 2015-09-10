@@ -1,5 +1,6 @@
 # fastqbarcode
-find most frequent barcodes in fastq files and dump records in separate fastq files.
+Find most frequent barcodes in fastq files and dump records in separate fastq files. 
+This tool is VERY fast, as it's written in C.
 Note that this should be run on a computer that can contain the whole file in RAM.
 
 Usage: fastqbarcode -f FASTQ.
