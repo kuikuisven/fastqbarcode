@@ -20,4 +20,4 @@ A version that doesn't require large amouts of RAM is in developpment.
 
 
 #Disclaimer
-This tool works for fastq file where the read length is bellow 150 base pairs, and where raw sequences are stored in one line only. 
+This tool works for fastq file where the read length is bellow 150 bases, and where raw sequences are stored in one line only. 
