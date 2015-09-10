@@ -8,16 +8,11 @@ Note that this should be run on a computer that can contain the whole file in RA
 
 
 Usage: fastqbarcode -f FASTQ.
-
-   -- get data from pipe.
-
-   -p prefix for output files
-
-   -m number of barcode output (default 10)
-
-   -h Displays this help message.
-
-   -d Verbose
+⋅⋅*  -- get data from pipe.
+⋅⋅*  -p prefix for output files
+⋅⋅*  -m number of barcode output (default 10)
+⋅⋅*  -h Displays this help message.
+⋅⋅*  -d Verbose
 
 
 
