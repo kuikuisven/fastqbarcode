@@ -1,9 +1,10 @@
 //
 //  main.c
-//  Filter_fastq_index
+//  fastqbarcode
 //
 //  Created by Nicolas Rapin on 08/09/2015.
 //  Copyright (c) 2015 Nicolas Rapin. All rights reserved.
+//  find most frequent barcodes in fastq files and dump records in separate fastq files
 //
 #include "uthash.h"
 #include <stdio.h>

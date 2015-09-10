@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D56CDFA6-5095-43F9-8868-67EC858D2781</string>
+	<key>IDESourceControlProjectName</key>
+	<string>fastqbarcode</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C7559911696D8A66ABC3F8F8E69ED911C542136</key>
+		<string>https://github.com/kuikuisven/fastqbarcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fastqbarcode.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C7559911696D8A66ABC3F8F8E69ED911C542136</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kuikuisven/fastqbarcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C7559911696D8A66ABC3F8F8E69ED911C542136</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C7559911696D8A66ABC3F8F8E69ED911C542136</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fastqbarcode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
