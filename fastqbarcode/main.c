@@ -153,12 +153,12 @@ int main (int argc, char *argv[]){
                     break;
                     
                 case 'h':
-                    printf("\n\nUsage: fileter_fastq_index -f FASTQ.\n   -- get data from pipe.\n   -p prefix for output files\n   -m number of barcode output\n   -h:Displays this help message.\n   -d Verbose\n");
+                    printf("\n\nUsage: fastqbarcode -f FASTQ.\n   -- get data from pipe.\n   -p prefix for output files\n   -m number of barcode output (default 10)\n   -h Displays this help message.\n   -d Verbose\n");
                     exit(-1);
                     break;
                     
                 default:
-                    printf("\n%s: Illegal option [%c]\n\nUsage: %s -fdh\n  -f [fastq file]: custom  file, default: 'seq.fastq'.\n  -p prefix for output files\n  -m number of barcode output\n  -- get data from pipe.\n  -d: Turn on verbose mode.\n  -h:Displays this help message.\n", argv[0],*--s,argv[0]);
+                    printf("\n%s: Illegal option [%c]\n\nUsage: %s -f p m h --\n  -f [fastq file]: custom  file, default: 'seq.fastq'.\n  -p prefix for output files\n  -m number of barcode output (default 10)\n  -- get data from pipe.\n  -d: Turn on verbose mode.\n  -h:Displays this help message.\n", argv[0],*--s,argv[0]);
                     exit(-1); break;
             }
     }
